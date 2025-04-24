@@ -3,7 +3,7 @@ package com.softserve.academy.jdbc.example;
 import java.util.Objects;
 
 public class Course {
-    private final long id;
+    private final Long id;
     private final String title;
     private final long teacherId;
 
